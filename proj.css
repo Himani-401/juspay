@@ -1,0 +1,211 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    display:flex;
+    justify-content: space-around;
+    
+
+ 
+}
+.h4{
+display:flex;
+justify-content:space-around;
+font-size: 50px;
+}
+.john{
+display:flex;
+justify-content:space-around;}
+.hii{
+display:flex;
+justify-content:space-around;
+}
+.products-list{
+display:flex;
+justify-content:space-around;
+}
+.banner{
+    text-align: center;
+    background-color: rgb(70, 132, 255);
+    color:aliceblue;
+    height: 40px;
+    padding-top: 15px;
+    margin-block: 0px;
+}
+.nav{
+    padding-top: 30px;
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+.pics{
+    display:flex;
+    justify-content: space-around;
+  
+    
+}
+.story{
+    border-radius:8px;
+padding-left: 100px;
+padding-right: 100px;
+margin-left: 250px;
+margin-right: 250px;
+padding-top: 50px;
+padding-bottom: 70px;
+    
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing:5px;
+    box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.1);
+    box-shadow: 10px 10px 10px 10px #a6b9de;
+    
+    
+}
+article{
+    background-color: rgba(0, 0, 0, 0.8);
+   
+
+}
+.heading{
+    font-size:70px;
+    color:aquamarine;
+}
+.payment{
+    font-size: 80px;
+    color:antiquewhite;
+    
+    
+}
+.india{
+    padding-left: 100px;
+    padding-top: 50px;
+    display:flex;
+    
+}
+.text{
+    color:antiquewhite;
+}
+.bulk{
+    padding-top: 88px;
+    font-size: 60px;
+    color:#082449;
+    padding-left: 100px;
+    font-weight: 1000px;
+}
+
+.dev{
+    text-align:center;
+    font-size:80px;
+    display:flex;
+    padding-left: 300px;
+
+}
+.ends{
+    background-color: rgba(0, 0, 0, 0.8);
+
+}
+button{
+    background-color: blue;
+    color:antiquewhite;
+    height:max-content;
+    font-size:x-large;
+}
+.img{
+    text-align: center;
+}
+.woah{
+    background-color:#e4f4ff;
+}
+.payment{
+    padding-top: 60px;
+    font-size:40px;
+    padding-left: 100px;
+}
+main{
+    display:flex;
+    justify-content:flex-end;
+
+}
+.india{
+    color:#80a3ea;
+    font-size: 50px;
+    padding-left: 0px;
+    margin-bottom:0px ;
+}
+.pay{
+    color:aliceblue;
+    font-size: 80px;
+    font-weight: bold;
+    text-align:justify;
+
+}
+.text{
+    color:aliceblue;
+    
+}
+.image{
+    width:400px;
+    margin-top: 125px;
+    margin-right: 150px;
+    margin-left: 200px;
+}
+.button1{
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    margin-left: 3rem;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+.button2{
+    background-color: #05f;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0;
+    padding: 14px 20px;
+}
+.yo{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 0px;
+
+}
+.tct{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    padding-bottom: 100px;
+}
+.box{
+    width: 500px;
+  border: 15px BLACK solid;
+  padding: 30px;
+  margin: 20px;
+  padding-bottom: 12px;
+  color:aliceblue;
+  background-color: black;
+  border-radius: 12px;
+}
+.train{
+    display:flex;
+}
+.foot{
+    display:flex;
+    justify-content: space-around;
+
+}
+footer{
+    background-color: #e1e8f5;
+    padding-bottom: 200px;
+}
